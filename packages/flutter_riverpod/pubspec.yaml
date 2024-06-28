@@ -22,7 +22,7 @@ dependencies:
     git:
       url: git@github.com:jordib2m/riverpod.git
       version: 3.0.0-dev4
-      path: ./packages/flutter_riverpod
+      path: ./packages/riverpod
   state_notifier: ">=0.7.2 <2.0.0"
 
 dev_dependencies:
