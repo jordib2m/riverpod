@@ -1,4 +1,4 @@
-## Unreleased build
+## 3.0.0-dev.4 - 2024-06-28
 
 - **Breaking**: It is now a runtime exception to "scope" a provider
   that is not specifying `dependencies`.
