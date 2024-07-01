@@ -19,10 +19,7 @@ dependencies:
     sdk: flutter
   meta: ^1.4.0
   riverpod: 
-    git:
-      url: git@github.com:jordib2m/riverpod.git
-      version: 3.0.0-dev4
-      path: ./packages/riverpod
+    path: ../riverpod
   state_notifier: ">=0.7.2 <2.0.0"
 
 dev_dependencies:
